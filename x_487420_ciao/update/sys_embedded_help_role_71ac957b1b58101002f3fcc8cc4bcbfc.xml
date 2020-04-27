@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_487420_ciao.employee" name="x_487420_ciao.employee">31ac957b1b58101002f3fcc8cc4bcbf9</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 15:47:20</sys_created_on>
+        <sys_id>71ac957b1b58101002f3fcc8cc4bcbfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>31ac957b1b58101002f3fcc8cc4bcbf9</sys_name>
+        <sys_package display_value="ciao" source="x_487420_ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_71ac957b1b58101002f3fcc8cc4bcbfc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 15:47:20</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
