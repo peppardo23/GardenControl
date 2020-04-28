@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Descrizione" section_id="c030a20c1b64501002f3fcc8cc4bcb42" sys_domain="global" table="x_487420_ciao_needlt" version="3" view="special_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-28 15:20:53</sys_created_on>
+            <sys_id>5830a20c1b64501002f3fcc8cc4bcb55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Descrizione" display_value="Descrizione" name="x_487420_ciao_needlt" sys_domain="global" view="3ccf5ec81b64501002f3fcc8cc4bcb11">c030a20c1b64501002f3fcc8cc4bcb42</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-28 15:20:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Descrizione</caption>
+            <header>false</header>
+            <name>x_487420_ciao_needlt</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-28 15:20:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c030a20c1b64501002f3fcc8cc4bcb42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Descrizione</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ciao" source="x_487420_ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_scope>
+            <sys_update_name>sys_ui_section_c030a20c1b64501002f3fcc8cc4bcb42</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-28 15:20:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="special view" name="special_view">3ccf5ec81b64501002f3fcc8cc4bcb11</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

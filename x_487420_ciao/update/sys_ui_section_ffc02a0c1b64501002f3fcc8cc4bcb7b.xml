@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Nuova Sezione" section_id="ffc02a0c1b64501002f3fcc8cc4bcb7b" sys_domain="global" table="x_487420_ciao_needlt" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_when_needed</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-28 15:26:15</sys_created_on>
+            <sys_id>ea61ee0c1b64501002f3fcc8cc4bcb44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Nuova Sezione" display_value="Nuova Sezione" name="x_487420_ciao_needlt" sys_domain="global" view="Default view">ffc02a0c1b64501002f3fcc8cc4bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-28 15:26:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_3</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-28 15:26:15</sys_created_on>
+            <sys_id>6e61ee0c1b64501002f3fcc8cc4bcb44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Nuova Sezione" display_value="Nuova Sezione" name="x_487420_ciao_needlt" sys_domain="global" view="Default view">ffc02a0c1b64501002f3fcc8cc4bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-28 15:26:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-28 15:26:15</sys_created_on>
+            <sys_id>ee61ee0c1b64501002f3fcc8cc4bcb44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Nuova Sezione" display_value="Nuova Sezione" name="x_487420_ciao_needlt" sys_domain="global" view="Default view">ffc02a0c1b64501002f3fcc8cc4bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-28 15:26:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reference_2</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-28 15:26:15</sys_created_on>
+            <sys_id>6261ee0c1b64501002f3fcc8cc4bcb45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Nuova Sezione" display_value="Nuova Sezione" name="x_487420_ciao_needlt" sys_domain="global" view="Default view">ffc02a0c1b64501002f3fcc8cc4bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-28 15:26:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Nuova Sezione</caption>
+            <header>false</header>
+            <name>x_487420_ciao_needlt</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-28 15:23:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffc02a0c1b64501002f3fcc8cc4bcb7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Nuova Sezione</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ciao" source="x_487420_ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_scope>
+            <sys_update_name>sys_ui_section_ffc02a0c1b64501002f3fcc8cc4bcb7b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-28 15:23:35</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

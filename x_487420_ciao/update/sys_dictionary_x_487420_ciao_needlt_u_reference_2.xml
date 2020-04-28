@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="link" table="x_487420_ciao_ciao">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_reference_2" table="x_487420_ciao_needlt">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>edge_encryption_enabled=true</attributes>
+        <attributes>encode_utf8=false</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Link</column_label>
+        <column_label>Requested for</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -22,20 +22,20 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>link</element>
+        <element>u_reference_2</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="URL">url</internal_type>
-        <mandatory>false</mandatory>
-        <max_length>1024</max_length>
-        <name>x_487420_ciao_ciao</name>
+        <internal_type display_value="Reference">reference</internal_type>
+        <mandatory>true</mandatory>
+        <max_length>32</max_length>
+        <name>x_487420_ciao_needlt</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference/>
+        <reference display_value="" name="sys_user">sys_user</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -47,16 +47,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-04-27 15:52:12</sys_created_on>
-        <sys_id>5136b5fb1b98101002f3fcc8cc4bcb21</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Link</sys_name>
+        <sys_created_on>2020-04-28 15:23:35</sys_created_on>
+        <sys_id>77c02a0c1b64501002f3fcc8cc4bcb9f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Requested for</sys_name>
         <sys_package display_value="ciao" source="x_487420_ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_scope>
-        <sys_update_name>sys_dictionary_x_487420_ciao_ciao_link</sys_update_name>
+        <sys_update_name>sys_dictionary_x_487420_ciao_needlt_u_reference_2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-27 17:39:01</sys_updated_on>
+        <sys_updated_on>2020-04-28 15:24:27</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

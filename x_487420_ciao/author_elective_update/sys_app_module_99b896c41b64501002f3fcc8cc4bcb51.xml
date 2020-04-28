@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="ciao">9afd11fb1b58101002f3fcc8cc4bcbe9</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Whith this module you can create a ner record for the table</hint>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_487420_ciao_ciao</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 14:51:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>99b896c41b64501002f3fcc8cc4bcb51</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ciao" source="x_487420_ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_scope>
+        <sys_update_name>sys_app_module_99b896c41b64501002f3fcc8cc4bcb51</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 14:59:56</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</application>
+        <file_path/>
+        <instance_id>421cdbb0db33730449eac5970596193e</instance_id>
+        <instance_name>dev93344</instance_name>
+        <name>sys_app_module_99b896c41b64501002f3fcc8cc4bcb51</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="ciao">9afd11fb1b58101002f3fcc8cc4bcbe9</application><assessment/><device_type/><filter/><hint>Whith this module you can create a ner record for the table</hint><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_487420_ciao_ciao</name><order>100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-28 14:51:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>99b896c41b64501002f3fcc8cc4bcb51</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="ciao" source="x_487420_ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_package><sys_policy/><sys_scope display_value="ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_scope><sys_update_name>sys_app_module_99b896c41b64501002f3fcc8cc4bcb51</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-28 14:59:56</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1711634676</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>3a3639bb1b98101002f3fcc8cc4bcb7d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 14:59:56</sys_created_on>
+        <sys_id>5d6bde081b64501002f3fcc8cc4bcb35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c14d3da30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 14:59:56</sys_updated_on>
+        <type>Module</type>
+        <update_guid>956bde0876645010410ca9ce0f133535</update_guid>
+        <update_guid_history>956bde0876645010410ca9ce0f133535:-1711634676,3c3b5e08ca645010a1271bfaed998ff9:-477318035,ab6952c490645010af168569a32c7467:-911721899</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">0e8bd2481b64501002f3fcc8cc4bcb97</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 15:00:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>a38c64f5e2a34f00992fb9ef75244000</sys_id>
+        <sys_metadata>99b896c41b64501002f3fcc8cc4bcb51</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="ciao" source="x_487420_ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_scope>
+        <sys_scope_delete display_value="">4769feb6821d4c3b83d89a335a1d7a01</sys_scope_delete>
+        <sys_update_name>sys_app_module_99b896c41b64501002f3fcc8cc4bcb51</sys_update_name>
+        <sys_update_version display_value="sys_app_module_99b896c41b64501002f3fcc8cc4bcb51">5d6bde081b64501002f3fcc8cc4bcb35</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 15:00:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
