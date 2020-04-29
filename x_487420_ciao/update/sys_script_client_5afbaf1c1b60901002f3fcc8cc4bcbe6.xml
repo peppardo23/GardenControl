@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Autocomplete needle</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   if(g_form.isNewRecord()){
+        g_form.setValue('u_reference_2',g_user.userID);
+	   jslog('ciao miao bao');
+    }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 15:30:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5afbaf1c1b60901002f3fcc8cc4bcbe6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Autocomplete needle</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ciao" source="x_487420_ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ciao">809c9dbb1b58101002f3fcc8cc4bcb6d</sys_scope>
+        <sys_update_name>sys_script_client_5afbaf1c1b60901002f3fcc8cc4bcbe6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 15:37:21</sys_updated_on>
+        <table>x_487420_ciao_needlt</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
